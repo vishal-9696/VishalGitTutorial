@@ -1,8 +1,4 @@
 This is nanother data ingestion file.
-<<<<<<< HEAD
-I am ingesting the data.
-=======
 Vishal here. I am actively working on this file.
-I am ingesting the data.
+I love ingesting data.
 I am ingestingh more data.
->>>>>>> bugfix
